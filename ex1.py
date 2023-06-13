@@ -1,2 +1,0 @@
-msg = ('oi')
-print(msg)

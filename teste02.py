@@ -1,0 +1,7 @@
+nome = input('Qual seu nome? ')
+print('Seje bem vindo {}!'.format(nome))
+print('Digite a data de nascimento na ordem abaixo: ')
+dia = input('Dia: ')
+mes = input('Mês: ')
+ano = input('Ano: ')
+print('Você confirma que sua data de nascimento é {} do {} de {}.'.format(dia, mes, ano))
