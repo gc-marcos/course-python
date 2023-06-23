@@ -1,7 +1,6 @@
 import math
 from math import ceil
 import random
-import
 num = random.randint(1, 1000)
 raiz = math.sqrt(num)
 print('Numero escolhido foi {}.'.format(num))
