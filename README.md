@@ -1,6 +1,6 @@
 # Curso de Python
 
-Este repositório contém os arquivos e códigos desenvolvidos durante no **Curso em Video**, utilizando a linguagem **Python**, seguindo as boas práticas recomendadas.
+Este repositório contém os arquivos e códigos desenvolvidos durante o curso na plataforma **Curso em Video**, utilizando a linguagem **Python**, seguindo as boas práticas recomendadas.
 
 ---
 
